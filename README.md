@@ -171,30 +171,20 @@ cmake --install build --config Release
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| [claude-agent-sdk-cpp](https://github.com/0xeb/claude-agent-sdk-cpp) | C++ | C++ port of the Claude Agent SDK |
-| [claude-agent-sdk-dotnet](https://github.com/0xeb/claude-agent-sdk-dotnet) | C# | .NET port of the Claude Agent SDK |
-| [fastmcpp](https://github.com/0xeb/fastmcpp) | C++ | C++ port of FastMCP for building MCP servers |
+| [claude-agent-sdk-cpp](https://github.com/Unity-Cloud/claude-agent-sdk-cpp) | C++ | C++ port of the Claude Agent SDK |
+| [claude-agent-sdk-dotnet](https://github.com/Unity-Cloud/claude-agent-sdk-dotnet) | C# | .NET port of the Claude Agent SDK |
+| [fastmcpp](https://github.com/Unity-Cloud/fastmcpp) | C++ | C++ port of FastMCP for building MCP servers |
 
 ## Projects Using This SDK
 
 | Project | Description |
 |---------|-------------|
-| [windbg_copilot](https://github.com/0xeb/windbg_copilot) | WinDbg extension for AI-assisted debugging |
-| [lldb_copilot](https://github.com/0xeb/lldb_copilot) | LLDB plugin for AI-assisted debugging |
-| [libagents](https://github.com/0xeb/libagents) | Unified C++ library for AI agent providers |
 
 Want to add your project? Open a PR!
 
 ## Author
 
-Elias Bachaalany ([@0xeb](https://github.com/0xeb))
+Elias Bachaalany [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
 
 Pair-programmed with Claude Code and Codex.
 
-## License
-
-Copyright 2025 Elias Bachaalany
-
-Licensed under the MIT License. See `LICENSE` for details.
-
-This is a C++ port of [copilot-sdk](https://github.com/github/copilot-sdk) by GitHub.
